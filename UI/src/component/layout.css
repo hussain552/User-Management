@@ -1,0 +1,15 @@
+.layout {
+    display: flex;
+  }
+  
+  .dashboard {
+    width: 250px; /* Adjust the width as per your requirement */
+    background-color: #f4f4f4;
+    padding: 30px;
+  }
+  
+  .content {
+    flex-grow: 1; /* Make content take the rest of the available space */
+    /* padding: 20px; */
+  }
+  
